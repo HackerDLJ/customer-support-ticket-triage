@@ -48,5 +48,13 @@ Version Control Integration: Managing the project files (notebook and output CSV
 
 **getpass module:** Python's module for secure password entry, used for GitHub PAT input.
 
-#000000
+#Links
+
+[GitHub Pages](https://pages.github.com/).
+
+[Google colab](https://colab.research.google.com/drive/1_-PeYhjSzRC2Xn1-MTYNSlYpBurrA7ub?usp=sharing).
+
+[This Repository](https://github.com/HackerDLJ/customer-support-ticket-triage) 
+
+[DLJ,s LinkedIn Page](www.linkedin.com/in/luke-jebasundar-46805a364)
 
