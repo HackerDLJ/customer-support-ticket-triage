@@ -24,27 +24,27 @@ Data Export: Exporting the enhanced dataset, including the new 'Classified Issue
 
 Version Control Integration: Managing the project files (notebook and output CSV) using Git and GitHub for version control and sharing.
 
-- *Made By, DLJ (*LUKE JEBASUNDAR*)*
+**Made By, DLJ (LUKE JEBASUNDAR)**
 
 ## Tools Used:
 
-Python: The primary programming language used for all data processing and analysis.
+**Python:** The primary programming language used for all data processing and analysis.
 
-Pandas: A powerful Python library used extensively for data manipulation, cleaning, reading/writing CSVs, date/time operations, and statistical aggregations.
+**Pandas:** A powerful Python library used extensively for data manipulation, cleaning, reading/writing CSVs, date/time operations, and statistical aggregations.
 
-Matplotlib: A Python plotting library used for creating static, interactive, and animated visualizations.
+**Matplotlib:** A Python plotting library used for creating static, interactive, and animated visualizations.
 
-Seaborn: A Python data visualization library based on matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
+**Seaborn:** A Python data visualization library based on matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
 
-Git: A distributed version control system used for tracking changes in source code during software development, and for coordinating work among developers.
+**Git:** A distributed version control system used for tracking changes in source code during software development, and for coordinating work among developers.
 
-GitHub: A web-based platform for version control and collaboration, hosting the project's Git repositories.
+**GitHub:** A web-based platform for version control and collaboration, hosting the project's Git repositories.
 
-Google Colab: The cloud-based Jupyter notebook environment used for developing and running the code.
+**Google Colab:** The cloud-based Jupyter notebook environment used for developing and running the code.
 
-shutil module: Python's high-level file operations module for copying files.
+**shutil module:** Python's high-level file operations module for copying files.
 
-os module: Python's module for interacting with the operating system, used for path manipulations.
+**os module:** Python's module for interacting with the operating system, used for path manipulations.
 
-getpass module: Python's module for secure password entry, used for GitHub PAT input.
+**getpass module:** Python's module for secure password entry, used for GitHub PAT input.
 
