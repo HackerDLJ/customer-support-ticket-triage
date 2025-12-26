@@ -1,0 +1,6 @@
+```diff
+- Text in red
++ Text in green
+! Text in orange
+# Text in gray
+@@ Text in purple (and bold)@@
