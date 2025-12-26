@@ -24,7 +24,7 @@ Data Export: Exporting the enhanced dataset, including the new 'Classified Issue
 
 Version Control Integration: Managing the project files (notebook and output CSV) using Git and GitHub for version control and sharing.
 
-*Made By, DLJ (*LUKE JEBASUNDAR*)*
+- *Made By, DLJ (*LUKE JEBASUNDAR*)*
 
 # Tools Used:
 
