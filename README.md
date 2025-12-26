@@ -1,8 +1,8 @@
 # customer-support-ticket-triage
 Week-1 Internship Project
 
-# Project Description:
-# Customer Support Ticket Analysis
+## Project Description:
+### Customer Support Ticket Analysis
 
 This project involved a comprehensive analysis of customer support ticket data to extract key insights, classify issues, assign priority levels, and evaluate Service Level Agreement (SLA) performance. The main objectives were:
 
@@ -26,9 +26,9 @@ Version Control Integration: Managing the project files (notebook and output CSV
 
 - *Made By, DLJ (*LUKE JEBASUNDAR*)*
 
-# Tools Used:
+### Tools Used:
 
-! Python: The primary programming language used for all data processing and analysis.
+Python: The primary programming language used for all data processing and analysis.
 
 Pandas: A powerful Python library used extensively for data manipulation, cleaning, reading/writing CSVs, date/time operations, and statistical aggregations.
 
