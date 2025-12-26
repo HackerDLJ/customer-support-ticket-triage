@@ -48,7 +48,7 @@ Version Control Integration: Managing the project files (notebook and output CSV
 
 **getpass module:** Python's module for secure password entry, used for GitHub PAT input.
 
-#Links
+# Links
 
 [GitHub Pages](https://pages.github.com/).
 
