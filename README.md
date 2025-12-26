@@ -28,7 +28,7 @@ Version Control Integration: Managing the project files (notebook and output CSV
 
 # Tools Used:
 
-- Python: The primary programming language used for all data processing and analysis.
+! Python: The primary programming language used for all data processing and analysis.
 
 Pandas: A powerful Python library used extensively for data manipulation, cleaning, reading/writing CSVs, date/time operations, and statistical aggregations.
 
